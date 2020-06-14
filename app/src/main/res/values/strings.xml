@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CleanVocal</string>
+    <string name="btn1">войти</string>
+    <string name="btn2">зарегистрироваться</string>
+    <string name="text">CleanVocal</string>
+    <string name="email">Email</string>
+    <string name="Пороль">Password</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828575666275",
+    "firebase_url": "https://cleanvocal-12ba6.firebaseio.com",
+    "project_id": "cleanvocal-12ba6",
+    "storage_bucket": "cleanvocal-12ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828575666275:android:f1c7cffeb9d0e422076856",
+        "android_client_info": {
+          "package_name": "com.example.cleanvocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828575666275-qui8uupgu3d20hgudjvo4q781h20jb86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cleanvocal",
+            "certificate_hash": "4ad995ba904515df3bb5e65168145687aff76533"
+          }
+        },
+        {
+          "client_id": "828575666275-5etjumkv06je8etiqtobsb9s1peoijr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9i5zOocbaYrRerNmore-shkzsfQ6NgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828575666275-5etjumkv06je8etiqtobsb9s1peoijr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
